@@ -1,0 +1,141 @@
+.shir {position: relative;
+	bottom: 50px;
+	min-width: 1200px;
+	}
+.photo {width: 150px; 
+	background-color: white;
+	position: relative;
+	top: 70px;
+	left: 20px;
+	/*transform: rotate(-90deg);*/
+	border: 1px double grey; 
+    padding: 2px;  
+    z-index: 2 
+}
+.home a {
+	position: relative;
+	left: 190px;
+	bottom: 10px;
+	font-size: 40px;
+	text-decoration: none;
+	color:#000000;
+	background: #yellow;
+	}
+ ul li { /*Меню*/
+ 	
+    display: inline; 
+    margin-right: 20px; 
+    
+    padding: 3px; 
+    text-decoration: none;
+}
+.poloska {
+	background-color: #ccd5eb; /*светло-синий*/
+	position: relative;
+	bottom: 40px;
+	margin-left: 0px;
+	padding:  4px; 
+}
+.videl {
+	background-color: white;
+	height: 6px;
+	width: 200px;
+	position: relative; 
+	bottom: 48px;
+	margin-left: 240px;
+	z-index: 1;
+}
+.videl2 {
+	background-color: white;
+	height: 6px;
+	width: 155px;
+	position: relative; 
+	bottom: 48px;
+	margin-left: 445px;
+	z-index: 3;
+}
+.videl3 {
+	background-color: white;
+	height: 6px;
+	width: 265px;
+	position: relative; 
+	bottom: 48px;
+	margin-left: 605px;
+	z-index: 3;
+}
+.bg {		/*меню*/	
+		
+	background: #42588e; /*темно-синий*/
+	margin-left: 0px; 
+	padding-left: 250px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+		bottom: 20px;
+}
+.bg a { color:#ffffff;
+	font-size: 30px;
+	text-decoration: none;
+}
+.title {
+	font-size: 30px;
+	text-align: center;
+}
+
+.text{
+	
+	position: relative;
+	bottom: 47px;
+	padding: 20px 200px;
+	margin-left: 0px;
+	font-size: 22px;
+	background: #ccd5eb;
+}
+.mintext {
+	min-height: 270px;
+}
+.link1 {
+	color: #42588e;
+	text-decoration: none;
+}
+.link {
+	color: #42588e;
+}
+ol li {
+	padding: 5px;
+}
+.bask {
+	padding-left: 0px;
+	margin-left: 10px;
+	width: 400px;
+	border: 3px double grey;
+
+}
+.baskp {
+	float: right;
+}
+.signap {
+	
+	position: relative;
+	bottom: 0px;
+	width: 100px;
+	
+}
+.signa {
+	float: left;
+	text-align: left;
+
+}
+.exp {
+
+	 list-style-image:none;
+}
+
+.hobbies {
+	padding-right:  10px;
+}
+.book {
+	float: left;
+	width: 200px;
+	padding-right: 10px;
+}
